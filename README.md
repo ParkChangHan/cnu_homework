@@ -1,7 +1,8 @@
 # cnu_homework
 cnu_homework
 
-jtp
+parkchanghan
+jungTaepyo
 Kimsungmin
 koseokkyu
 
